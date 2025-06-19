@@ -18,7 +18,14 @@
 
 ## Description
 
-Prompts are for humans, policies are for LLMs.
+With regard to LLMs, there are a few key limiting beliefs that have to be overcome to tap into their power. 
+
+1) There is the understanding that it is an interface, but actually, it is an engine
+2) There is the understanding that a problem can be fed to it, and that is sufficient, but actually, it is just a more evolved way to articulate solutions i.e., we still have to explain the solution to it
+3) There is the understanding that the correct way to communicate with it is by giving natural language instructions, but actually, it highly prefers a kind of a novel markup language
+4) There is the understanding that building and maintaining context is beneficial, when mostly the opposite is true
+
+Points 2-4 are a major cause for the LLM to go "sideways" with more complex things. It seems that a major source of the sense of complexity for the LLM comes from the way we interact with it (based on these misunderstandings). 
 
 <!-- This section provides a high-level overview for the repo -->
 
