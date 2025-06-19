@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<h3 align="center">New Repository Template</h3>
+<h3 align="center">LLM Policies</h3>
 
 <!-- Replace the title of the repository -->
 
@@ -18,7 +18,7 @@
 
 ## Description
 
-The template for creating new repositories.
+Prompts are for humans, policies are for LLMs.
 
 <!-- This section provides a high-level overview for the repo -->
 
@@ -36,6 +36,7 @@ The template for creating new repositories.
 
 ## Docs
 
-No documentations.
-
-<!-- This section must link to the docs which are in the root of the repository in /docs -->
+1) Get the policy you want from here: https://github.com/Vaquum/llm-protocols/tree/main/protocols by clicking the file, and then clicking raw and copying that
+2) Create new Project in Claude, and name it based on the policy
+3) Add the policy to the instructions for that project
+4) Whenever you want to use that policy, click Projects in Claude, and start a new chat there by asking it to run the policy on whatever topic you want
