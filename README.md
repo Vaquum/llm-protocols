@@ -27,6 +27,8 @@ With regard to LLMs, there are a few key limiting beliefs that have to be overco
 
 Points 2-4 are a major cause for the LLM to go "sideways" with more complex things. It seems that a major source of the sense of complexity for the LLM comes from the way we interact with it (based on these misunderstandings). 
 
+This repository shares various policies, which are a solution to the above-mentioned problems. Policies are the intersection between human language and LLM language.
+
 <!-- This section provides a high-level overview for the repo -->
 
 ## Owner
