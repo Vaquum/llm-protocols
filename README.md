@@ -41,7 +41,6 @@ Prompts are for humans, policies are for LLMs.
 3) Add the policy to the instructions for that project
 4) Whenever you want to use that policy, click Projects in Claude, and start a new chat there by asking it to run the policy on whatever topic you want
 
-After the final step, you end up with something like: 
+After the final step, you end up with something like:
 
-![Uploading Screenshot 2025-06-19 at 19.25.58.png…]()
-
+<img width="1356" alt="Screenshot 2025-06-19 at 19 25 58" src="https://github.com/user-attachments/assets/e4c92996-6bb2-4484-9773-667333e765d9" />
